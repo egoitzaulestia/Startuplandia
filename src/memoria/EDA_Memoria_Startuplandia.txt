@@ -1,0 +1,135 @@
+﻿Título: Startuplandia, el lugar donde ver unicornios es algo común.
+—
+
+
+Tema: Análisis Exploratorio de Datos del Emprendimiento en las Startups
+—
+
+
+El proyecto Startuplandia, es un Análisis Exploratorio de Datos que explora el mundo del emprendimiento de las empresas emergentes, o mayormente conocidas como startups.
+
+
+Una startup es una empresa de reciente creación que tiene dos características primordiales y es que suelen estar basadas en modelos de negocio innovadores, y sobre todo, que tenga la capacidad de escalar su negocio de manera muy rápida.
+
+
+Pero antes de llegar a esa idea final, mi proyecto EDA ha pasado por varias fases. Cabe destacar que la primera idea que traté de llevar a cabo trabajaba bajo el título de “Análisis de la adopción de la neurotecnología en la sociedad”. Y también baraja una segunda opción de “El impacto de la tecnología en la salud mental”.
+
+
+Encontré algunos datos sobre neurotecnología. NOTA: Quería indagar en la industria neurotecnológica, no tanto en datos neurológicos. La cuestión es que tuve problemas de hallar ambos tipos de datos, uno por la confidencialidad de ellas al ser datos médicos, y la otra porque no encontré tanta data sobre neurotecnología como me hubiera gustado.
+
+
+Una vez dejado de lado la neurotecnología, empecé a buscar historicos de desarrollo sobre la tecnología en general, el cual la idea sería contrastar las distintas invenciones tecnológicas que se han llevado a cabo hasta la fecha con los índices de salud mental a lo largo del tiempo. 
+
+
+Una vez más, no encontré datos determinantes que me pudieran servir para continuar por ese camino, por lo que decidí seguir indignado en la búsqueda de datos. Para ello investigue sobre fuentes de datos abiertos, APIs abiertas, hasta que al final encontré un dataset de 55K muestras sobre startups. 
+
+
+Lo bueno es que descubrí sobre qué quería trabajar. Las startups, que es un mundo que me apasiona, y que un grado de mayor o menor medida lo conozco, pues llevo 10 años en el mundo del emprendizaje tecnológico, ya que soy co-fundador de una startup, aunque me desvinculé profesionalmente de ella hace unos años. Fracasé en el intento de la creación de una segunda startup. Y en estos momentos estoy trabajando en mi tercer intento de empresa tecnológica.
+
+
+Lo malo es que el dataset solo estaba actualizado hasta 2014, así que tenía que seguir buscando más datos.
+
+
+He de decir que habré manipulado unos 70 datasets.
+
+
+Por momentos, encontré algunos datos sobre startups de inteligencia artificial. Pero una vez más los datos no eran muy numerosos.
+
+
+Pero al final, encontré unos cuantos datasets sobre startups unicornio. La verdad que no tenía muchas muestras, pero sí que empecé a ver la luz de cómo podía encaminar o plantear el proyecto. 
+
+
+Para el que no se mueva en el mundo empresarial o tecnológico, ha de saber que un unicornio es aquella empresa, startup o no, que está valorada en más de 1 billón de dólares, lo equivalente a 1.000 millones de dólares americanos. No significa que tenga un ingreso en beneficios de 1.000 millones de dólares, si no que su valor, asciende a esa cifra.
+
+
+Además de unicornios, existen los “decacornios”, empresas valoradas en más de 10 billones de dólares o lo que es lo mismo, 10.000 millones de dólares. Y por último están los “hectocornios”, empresas valoradas en más de 100.000 millones de dólares.
+
+
+Puedo decir que los unicornios han sido los que han enderezado el rumbo de este proyecto EDA sobre el mundo de las startups.
+
+
+Básicamente, mi hipótesis principal se centraba en que “La ubicación geográfica de una startup tiene un impacto significativo en su éxito y crecimiento”. 
+
+
+Y ya que hablamos de crecimiento, para ello, también pensé en la evolución de la tecnología, de cómo la inversión es crucial en las startups punteras, y de cómo la evolución de la tecnología se verá implicada por la inteligencia artificial que ya está consolidandose como el nuevo paradigma que viene a cambiar todas las industrias del sistema económico de abajo a arriba y de una manera transversal, con un impacto solamente visto como la electricidad en su día, o quién sabe si como el fuego…
+
+
+Para finalizar, puedo afirmar que mi hipótesis principal es cierta, dado que existen ciertas zonas geográficas del planeta donde el emprendimiento tecnológico tiene una mayor concentración, como pueden ser San Francisco en California, EEUU. Shenzhen, en China. Londres, en Reino Unido, o Singapore. Donde el nivel de emprendimiento e inversión en startups es altísimo. 
+
+
+También he validado mi segunda hipótesis. Haciendo uso de un dataset del índice global de la inteligencia artificial, he probado que EEUU es la potencia mundial en IA, frente a una China que apunta maneras, pero que aún no le puede hacer frente.
+
+
+Y también puedo afirmar mi tercera hipótesis sobre que EEUU era Startaplandia, una tierra propicia para la vida de los unicornios, ya que Estados Unidos alberga más de la mitad de la suma total de todos los unicornios en el mundo. California, en especial San Francisco (y Silicon Valley), tienen el mayor número de unicornios. Hasta un total de 659 unicornios, muchos de ellos decacornios, además. 
+
+
+Un dato que me ha impactado muchísimo es que en Estados Unidos se invierte en startups un 99, 6% más que en España. La diferencia es simplemente bestial. 
+
+
+Como autocrítica, y posibles mejoras de futuro en mi metodología de trabajo, es la de poder definir el proyecto antes, ya que he de decir que he encontrado el hilo conductor del proyecto bastante tarde, y para cuando podía empezar a entender o jugar con los datos, apenas he tenido tiempo de hacer un análisis de datos tan exhaustivo como el que me hubiera gustado.
+
+
+Para ir finalizando esta memoria, comentar que el notebook principal al final quedó sumamente sucio, dado que a la hora de querer pasar a limpio el código, debido a tocar algo en el código, me empezaba a dar errores.
+
+
+Por último, y para finalizar, también he trabajado un poco los comienzos de lenguaje de procesamiento natural NLP en un dataset de 8.000 papers científicos sobre inteligencia artificial, mediante NLTK, Natural Language Toolkit, el kit de herramientas de procesamiento de lenguaje natural (NLP) de Python. Con él he trabajado en los títulos de los artículos científicos, y en los abstracts (resúmenes introductorios de los artículos) respecto a bigramas y/o trigramas, secuencias de dos y/o tres palabras que aparecen juntas en un texto en un orden específico, con la intención de hallar tendencias en investigación en inteligencia artificial.
+
+
+Un trigrama resaltaba por encima del resto:
+
+
+Graph Neural Networks.
+
+
+To be continued.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Egoitz Aulestia, 30 de Octubre 2023
