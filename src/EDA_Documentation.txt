@@ -1,0 +1,144 @@
+﻿Startups & Companies 
+
+
+Notebooks
+
+
+01
+Companies
+https://github.com/JonathanJing/ISDS-574-Group-Project/tree/master
+
+
+—
+
+
+Startups EDA + Streamlit app  ---> Tiene buena pinta el esquema d como ha seguido los pasos. Títulos, subtitulos, etc.
+DATA: Investment_VC Data updated till 2014
+https://www.kaggle.com/code/danielkhromov/startups-eda-streamlit-app/notebook 
+ 
+02
+Startup investment
+https://www.kaggle.com/code/jayrdixit/startup-investment/notebook 
+https://www.kaggle.com/code/danielkhromov/startups-eda-streamlit-app/notebook (Plotly)
+https://www.kaggle.com/code/ardoktor/crunchbase-status-prediction-eda 
+Data_Geek: Things You Should Consider Before Raising Funds
+https://www.kaggle.com/code/jrsami/data-geek 
+
+
+US startups companies over time (hasta 2022)
+https://www.kaggle.com/datasets/thedevastator/empowering-the-next-wave-of-entrepreneurs?select=ycombinator.csv
+N - https://www.kaggle.com/code/takkimsncn/us-startups-over-time-analysis 
+
+
+YC startups (2005-2014)
+https://www.kaggle.com/datasets/joebeachcapital/startups?select=Startups.csv 
+
+
+Data Companies (1901-2014)
+https://www.kaggle.com/datasets/mohamedkhaledidris/ofhddd 
+N - https://www.kaggle.com/code/mayarmohamedswilam/start-ups-companies-predection 
+
+
+Shark Tank US dataset (hasta 2023)
+https://www.kaggle.com/datasets/thirumani/shark-tank-us-dataset 
+No queda claro en qué me puede servir
+
+
+Unicorns 
+
+
+Notebooks
+
+
+Unicorns-startups [EDA] ---> buena pinta (global, valuación, geolocalización, Industría)
+https://www.kaggle.com/code/himanshunayal/unciorn-startups-eda 
+
+
+Startups Valued at $1 Billion or More
+https://www.kaggle.com/datasets/thedevastator/startups-valued-at-1-billion-or-more/code
+Unicorn Insights: A Comprehensive Data Analysis of
+https://www.kaggle.com/code/amalsalilan/unicorn-insights-a-comprehensive-data-analysis-of 
+Where to invest?
+https://www.kaggle.com/code/jonathanbouchet/where-to-invest
+https://www.kaggle.com/datasets/thedevastator/startups-valued-at-1-billion-or-more/discussion/367782 
+
+
+Unicorn Companies Dataset
+https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset 
+https://www.kaggle.com/code/juanojg/unicorn-companies-eda-visualization 
+https://www.kaggle.com/datasets/niekvanderzwaag/unicorn-startups-cleaned (Cleaned data)
+
+
+
+
+Unicorn Startup Companies July 2023  ———>  EL DATASET
+https://www.kaggle.com/datasets/tahzeer/unicorn-startup-companies-july-2023
+
+
+
+
+Global Unicorn Analysis & Strategy Insights
+N - https://www.kaggle.com/code/xreina8/global-unicorn-analysis-strategy-insights 
+
+
+AI 
+
+
+Notebooks
+
+
+Are AI Products On The Rise ?
+I https://www.kaggle.com/code/vineethakkinapalli/are-ai-products-on-the-rise/notebook
+II https://www.kaggle.com/code/sagarsy2050/ai-companies-dataset
+III https://www.kaggle.com/code/rushabkumarjha/ai-companies-dataset-survey  
+
+
+
+
+AI Tools 2023
+I https://www.kaggle.com/datasets/muhammadtalhaawan/ai-5000-tools-2023 
+II https://www.kaggle.com/code/nurtanbilmis/ai-tools-2023 
+III https://www.kaggle.com/code/lightbeam/eda-in-python 
+IV https://www.kaggle.com/code/mikedelong/basic-python-eda - (wordcloud)
+
+
+
+
+
+
+Artificial Intelligence Arxiv
+https://www.kaggle.com/datasets/johoetter/design-thinking-arxiv
+
+
+arXiv Dataset
+https://www.kaggle.com/datasets/Cornell-University/arxiv/data?select=arxiv-metadata-oai-snapshot.json 
+arxiv-exploring-spatial-structure ———> Graph Learning ??
+https://www.kaggle.com/code/frednavruzov/arxiv-exploring-spatial-structure 
+
+
+
+
+AI Global Index
+https://www.kaggle.com/datasets/katerynameleshenko/ai-index 
+Global AI index insights +
+https://www.kaggle.com/code/gvyshnya/global-ai-index-insights (plotly)
+https://www.kaggle.com/code/kirtanmatalia26/ai-global-index-using-svm
+https://www.kaggle.com/code/dima806/global-ai-index-predict-catboost-shap
+Global AI Race: Dominant Players and Aspiring Challengers
+https://intersog.com/blog/ai-dominant-players-and-aspiring-challengers/ 
+
+
+
+
+
+
+Mental Health
+
+
+Notebooks
+
+
+Global Trends in Mental Health Disorder
+https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder 
+https://www.kaggle.com/code/cristofervillarn/mental-health-exploratory-analysis-worldwide 
+https://www.kaggle.com/code/zakariafhal/analisis-de-datos-los-trastornos-de-salud-mental
