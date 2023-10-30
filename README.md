@@ -1,5 +1,4 @@
-# Startuplandia
----
+![imagen](src/img/Startuplandia_OK.jpg)
 
 ## **Análisis Exploratorio de Datos del Emprendimiento en las Startups**
 
@@ -16,4 +15,4 @@ Estados Unidos es Startuplandia
 
 ---
 
-![imagen](src/img/Startuplandia_OK.jpg)
+
