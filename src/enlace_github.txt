@@ -1,0 +1,9 @@
+Este archivo contiene el enlace del proyecto Startuplandia, 
+un análisis exploratorio de datos del emprendimiento en las startups.
+
+Enlace = https://github.com/egoitzaulestia/Startuplandia
+
+Egoitz Aulestia, 
+BBK / The Bridge,
+Full Time Data Science Bootcamp,
+30 de Octubre de 2023.
